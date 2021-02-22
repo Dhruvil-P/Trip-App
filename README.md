@@ -1,6 +1,6 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/rZmpPNy/flutter.png" alt="flutter" border="0" ></a>
 # trip_app
-A new flutter application with animation effects.
+A new flutter application with animation.
 
 ## Preview
 <a href="https://ibb.co/F49m5sT"><img src="https://i.ibb.co/k2p543C/Whats-App-Image-2021-02-22-at-11-34-28-AM-3.jpg" alt="Whats-App-Image-2021-02-22-at-11-34-28-AM-3" border="0"
