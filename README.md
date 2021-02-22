@@ -4,3 +4,5 @@
 <br>
 
 A new flutter application with animation effects.
+
+Read the documentation here:- https://flutter.dev/docs.
